@@ -1,4 +1,4 @@
 # KataPotter
 
-here is the task :
+Here is the task :
 http://codingdojo.org/kata/Potter/
