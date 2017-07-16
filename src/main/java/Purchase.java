@@ -3,9 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
-/**
- * Created by HICHEM on 10/07/2017.
- */
+
 public class Purchase {
 
     private List<Integer> books;
