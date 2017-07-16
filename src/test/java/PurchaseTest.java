@@ -3,9 +3,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by HICHEM on 10/07/2017.
- */
+
 public class PurchaseTest {
 
     private Purchase purchase = new Purchase();
